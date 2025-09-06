@@ -1,16 +1,43 @@
-# weather_app
+# 🌦️ Modern Weather App
 
-A new Flutter project.
+A modern and beautifully designed **Flutter Weather App** powered by **OpenWeatherMap API**.  
+It provides real-time weather details, a 5-day forecast, animations, and a clean UI inspired by modern weather apps.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 🔍 **City Search with Suggestions** (autocomplete dropdown)  
+- ❤️ **Favorite Cities** quick access  
+- 🌦 **Real-Time Weather Data** using OpenWeatherMap API  
+- 📊 **5-Day Forecast** with horizontal scroll  
+- 🌍 **Dynamic Backgrounds** (changes with weather condition)  
+- 🌞🌧 **Weather Animations** (sun, rain, clouds via GIF overlays)  
+- 🌡 **Temperature Unit Toggle** (°C ↔ °F)  
+- 🎨 **Modern UI** with glassmorphism cards and smooth design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+lib/
+ ├─ main.dart         # Main application
+assets/
+ ├─ rain.gif          # Rain animation
+ ├─ sun.gif           # Sun animation
+ ├─ cloud.gif         # Cloud animation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+🔧 Requirements
+
+Flutter SDK (latest stable)
+
+OpenWeatherMap API key
+
+Internet connection
+
+
+
+
+---
+
+👉 Bhai, kya chahte ho ke main tumhare liye **badhiya GitHub tags (topics)** bhi likh dun jaise `flutter-weather`, `flutter-ui`, `openweathermap`, taake repo searchable ho jaye?
+
+
